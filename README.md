@@ -25,10 +25,9 @@ A cross-platform currency converter app built with Flutter. Supports both **Cupe
 
 ## Screenshots
 
-<p float="left">
-  <img src="https://github.com/Strovana/Currency-Converter-/assets/fonts/Screenshot (514).png" width="200" height="240"/>
-  <img src="https://github.com/Strovana/Currency-Converter-/assets/fonts/Screenshot (515).png" width="200" height="240"/>
-</p>
+![Material App](https://github.com/Strovana/Currency-Converter-/assets/fonts/Screenshot (514).png)
+![Cupertino App](https://github.com/Strovana/Currency-Converter-/assets/fonts/Screenshot (515).png)
+
 
 ---
 
