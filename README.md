@@ -27,9 +27,9 @@ A cross-platform currency converter app built with Flutter. Supports both **Cupe
 
 <p float="left">
   <img src="![Screenshot (514)](https://github.com/user-attachments/assets/1433a992-91db-46cb-8ac7-c0ffe49cd604)
-" width="200" />
+" width="200" height="240"/>
   <img src="![Screenshot (515)](https://github.com/user-attachments/assets/b507a113-d248-440e-8d4f-0d3e0a11136c)
-" width="200" />
+" width="200" height="240" />
 </p>
 
 ---
