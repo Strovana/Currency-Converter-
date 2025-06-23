@@ -17,7 +17,7 @@ class _CurrencyConverterCupertinoPageState extends State<CurrencyConverterCupert
   Map<String, String> currencies = {};
   String? fromCurrency;
   String? toCurrency;
-  final String accessKey = '0b2db0492f48f4f72b5ab04a0c756c82';
+  final String accessKey = '31b5ac4701d19131424178146436c7b2';
 
   @override
   void initState() {
